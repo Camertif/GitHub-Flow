@@ -10,11 +10,13 @@ Following GitHub flow
 Introduction
 GitHub flow is a lightweight, branch-based workflow. The GitHub flow is useful for everyone, not just developers. For example, here at GitHub, we use GitHub flow for our site policy, documentation, and roadmap.
 
+https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github
+
 Prerequisites
-To follow GitHub flow, you will need a GitHub account and a repository. For information on how to create an account, see "Creating an account on GitHub." For information on how to create a repository, see "Quickstart for repositories." For information on how to find an existing repository to contribute to, see "Finding ways to contribute to open source on GitHub."
+To follow GitHub flow, you will need a GitHub account and a repository. For information on how to create an account, see "Creating an account on GitHub." For information on how to create a repository, see "Quickstart for repositories." https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories For information on how to find an existing repository to contribute to, see "Finding ways to contribute to open source on GitHub." https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github
 
 Following GitHub flow
-Tip: You can complete all steps of GitHub flow through the GitHub web interface, command line and GitHub CLI, or GitHub Desktop. For more information about the tools you can use to connect to GitHub, see "Connecting to GitHub."
+Tip: You can complete all steps of GitHub flow through the GitHub web interface , command line and GitHub CLI https://cli.github.com/, or GitHub Desktop https://docs.github.com/en/desktop. For more information about the tools you can use to connect to GitHub, see "Connecting to GitHub." https://docs.github.com/en/get-started/using-github/connecting-to-github
 
 Create a branch
 Create a branch in your repository. A short, descriptive branch name enables your collaborators to see ongoing work at a glance. For example, increase-test-timeout or add-code-of-conduct. For more information, see "Creating and deleting branches within your repository."
